@@ -28,6 +28,7 @@ nav:
 #      - Glossary: getting-started/glossary.md
   - Card Database:
       - Overview: cards/index.md
+      - CGH: cards/cgh.md
 #  - About: about.md
 
 markdown_extensions:
